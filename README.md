@@ -1,6 +1,6 @@
 # Simple Weather App - Android
 
-Simple Weather App built with Kotlin, developed using teh APIs offered on [OpenWeatherMap](https://openweathermap.org/api).
+Simple Weather App built with Kotlin, developed using the APIs offered on [OpenWeatherMap](https://openweathermap.org/api).
 
 ## Features
 
@@ -19,5 +19,3 @@ Simple Weather App built with Kotlin, developed using teh APIs offered on [OpenW
 
 ## Todo
 - Add testing
-- Use [Kotlin coroutine](https://github.com/Kotlin/kotlinx.coroutines)
-- Fix some problems
