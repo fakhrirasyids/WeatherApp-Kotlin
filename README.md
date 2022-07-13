@@ -13,7 +13,7 @@ Simple Weather App built with Kotlin, developed using teh APIs offered on [OpenW
 | :---:                              | :---:                             | :---:                              |
 | ![](1.jpeg)  | ![](2.jpeg) | ![](3.jpeg)  |
 
-## Trying:
+## APK:
 
   [Debug apk](https://github.com/fakhrirasyids/WeatherApp-Kotlin/blob/master/app-debug.apk)
 
