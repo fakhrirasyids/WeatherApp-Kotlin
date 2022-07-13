@@ -71,8 +71,8 @@ class MainActivity : AppCompatActivity() {
             )
             status.text = weatherDetail.weather[0].description
             temp.text = StringBuilder("${weatherDetail.main.temp}°C")
-            tempMin.text = StringBuilder("${weatherDetail.main.tempMin}°C")
-            tempMax.text = StringBuilder("${weatherDetail.main.tempMax}°C")
+            tempMin.text = StringBuilder("Min Temp: ${weatherDetail.main.tempMin}°C")
+            tempMax.text = StringBuilder("Max Temp: ${weatherDetail.main.tempMax}°C")
             sunrise.text = SimpleDateFormat(
                 "hh:mm a",
                 Locale.ENGLISH
