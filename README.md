@@ -5,8 +5,7 @@ Simple Weather App built with Kotlin, developed using the APIs offered on [OpenW
 ## Features
 
 - Networking with [Retrofit](https://square.github.io/retrofit/)
-- Adding ViewModels
-- Adding LiveData
+- Implementing MVVM Architecture
 
 ## Sreenshots
 |  |  |   |
